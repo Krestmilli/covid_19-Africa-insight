@@ -2,6 +2,8 @@
 
 ![COVID-19 Africa Overview](./assets/1A1753E0-A8DF-4BF9-816A-172DFC8C51E0.jpeg)
 
+https://github.com/Krestmilli/covid_19-Africa-insight/blob/main/Covid%20in%20Africa%20Challenges.png
+
 ## Project Overview
 This project provides a comprehensive analysis of the COVID-19 pandemic across Africa, focusing on:
 - Confirmed cases
